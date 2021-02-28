@@ -1,3 +1,3 @@
 # Welcome to Atlancraft Reforged GITHUB
 
-For detail please read "Atlancraft Reforged.md"
+For wiki please visit **Wiki tab**, and for server progress please visit **Projects tab**
